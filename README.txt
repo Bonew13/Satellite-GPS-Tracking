@@ -24,3 +24,5 @@ The program will output the exact position of all the users inputted.
 It will then output the closest "other" user, as well as the difference in distance between "our" user and the closest "other" user.
 
 In addition, it will also output the current system time in nanoseconds.
+
+Program was created in collaboration with Mina A. for engg1410.
